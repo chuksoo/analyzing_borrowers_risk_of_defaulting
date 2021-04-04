@@ -11,7 +11,7 @@ Your report will be considered when building a **credit score** for a potential 
 
 <hr>
 
- # Table of contents
+## Table of contents
 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <ol>
