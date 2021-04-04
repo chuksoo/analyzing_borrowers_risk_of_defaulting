@@ -91,13 +91,13 @@ The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrower
 <div id="accomplishments">
     <h2>Accomplishments</h2> 
 </div>
-- Applied strategies for dealing with missing values.
-- Converted data from one type to another.
-- Identified duplicate data and processed it in several different ways.
-- Categorized data.
-- Final data export into pivot tables.
-- Querying and using Pivot table for data manipulation and interpretation.
-- Creating visualization using insights from pivot table.
+- Applied strategies for dealing with missing values. <br>
+- Converted data from one type to another. <br>
+- Identified duplicate data and processed it in several different ways. <br>
+- Categorized data. <br>
+- Final data export into pivot tables. <br>
+- Querying and using Pivot table for data manipulation and interpretation. <br>
+- Creating visualization using insights from pivot table. <br>
 
 This project was able to answer these questions:
 - Is there a connection between having kids and repaying a loan on time?
