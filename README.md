@@ -116,24 +116,11 @@ Overall, we can see that people with more kids tends to have more debt. Statisti
 </div> 
 -->
  
-<!DOCTYPE html>
-<html>
-<head>
-<title>Showing images side by side using CSS flex Property</title>
-<style>
-	* { font: 20px Calibri; }
-    ul, li {
-        display: flex;
-		width: 100%;
-        padding: 5px;
-        margin: 0;
-    }
-    img {
-    	width: 25%;
-    }
-</style>
-</head>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children.JPG)  |  ![](https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children_familystatus.JPG)
 
+<!--
 <body>
 <div> 
 	<ul>
@@ -145,7 +132,7 @@ Overall, we can see that people with more kids tends to have more debt. Statisti
 </div>
 </body>
 </html>
-
+-->
 
 **Conclusion**
 
