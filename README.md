@@ -37,6 +37,7 @@ The objective of this project is to:
 <div id="data_source">
     <h2>Data Source</h2> 
 </div>
+
 The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrowers_risk_of_defaulting/blob/main/credit_scoring_eng.csv) data is a real-life analytical case study provided by [Practicum by Yandex](https://practicum.yandex.com/). As a Data Scientist, we are to prepare a report for a client by analyzing the clients' customers and the risk of defaulting on a loan. Various data preprocessing was applied and used to analyze the borrower's risk of defaulting on a loan. The report is to be used when building a credit scoring of a potential customer. 
 
 **Description of the data**
