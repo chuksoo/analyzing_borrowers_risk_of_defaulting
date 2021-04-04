@@ -72,15 +72,18 @@ The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrower
 </div>
 1. Open the data file and have a look at the general information
 2. Data preprocessing
+
 - 2.1 Processing missing values <br>
 - 2.2 Data type replacement <br>
 - 2.3 Processing duplicates <br>
 - 2.4 Categorizing Data <br>
 3. Answer the business question
+
 - Is there a connection between having kids and repaying a loan on time? 
 - Is there a connection between marital status and repaying a loan on time?
 - Is there a connection between income level and repaying a loan on time?
 - How do different loan purposes affect on-time loan repayment?
+
 4. Conclusion
 
 <div id="executive_summary">
