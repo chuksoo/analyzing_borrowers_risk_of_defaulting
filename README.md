@@ -1,5 +1,4 @@
 # Analyzing borrowers’ risk of defaulting
-## Credit Rating Analytics
 
 Chukwuemeka Okoli <br>
 Practicum by Yandex Project 1 <br>
