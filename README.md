@@ -9,8 +9,7 @@ Your project is to prepare a report for a bank’s loan division. You’ll need 
 
 Your report will be considered when building a **credit score** for a potential customer. A **credit score** is used to evaluate the ability of a potential borrower to repay their loan.
 
-**Guiding Question** 
-
+**Guiding Question** <br>
 Why do borrowers' default on making on time loan repayment? 
 
 
@@ -27,7 +26,7 @@ Why do borrowers' default on making on time loan repayment?
     </ol>
 </div> 
 <br>
-<!-- <hr>-->
+
 
 <div id="objectives">
     <h2>Objectives</h2> 
