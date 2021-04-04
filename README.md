@@ -23,7 +23,7 @@ Your report will be considered when building a **credit score** for a potential 
     </ol>
 </div> 
 <br>
-<hr>
+<!-- <hr>-->
 
 
 **Objectives** <br>
