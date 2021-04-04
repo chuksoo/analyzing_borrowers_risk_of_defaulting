@@ -18,8 +18,9 @@ Your report will be considered when building a **credit score** for a potential 
         <li><a href="#objectives">Objectives</a></li>
         <li><a href="#data_source">Data Source</a></li>
         <li><a href="#technology_used">Technology Used</a></li>
-        <li><a href="#general_conclusion">General conclusion</a></li>
-        <li><a href="#project_readiness_checklist">Project Readiness Checklist</a></li>
+        <li><a href="#structure_notebook">Structure of Notebook</a></li>
+        <li><a href="#executive_summary">Executive Summary</a></li>
+        <li><a href="#accomplishments">Accomplishments</a></li>
     </ol>
 </div> 
 <br>
