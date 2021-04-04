@@ -29,6 +29,7 @@ Your report will be considered when building a **credit score** for a potential 
     <h2>Objectives</h2> 
 </div>
 The objective of this project is to:
+
 - Prepare a report for a bank's loan division by analyze a borrower's risk of defaulting.
 - Apply Data Preprocessing to a real-life analytical case study.
 
