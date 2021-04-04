@@ -138,8 +138,8 @@ For future development, I will be working at better visualization and statistica
     <li>Converted data from one type to another.</li>
     <li>Identified duplicate data and processed it in several different ways.</li>
     <li>Categorized data.</li>
-    <li>Final data export into pivot tables.</li>
-    <li>Querying and using Pivot table for data manipulation and interpretation.</li>
-    <li>Creating visualization using insights from pivot table.</li>
+    <li>Export final data into pivot tables.</li>
+    <li>Queried and used pivot table for data manipulation and interpretation.</li>
+    <li>Created visualizations using insights from pivot table.</li>
 </ul>
  This project was able to answer the business questions. Using insights from this project, the client can classify customer's according to customers’ credit worthiness. 
