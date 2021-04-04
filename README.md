@@ -107,7 +107,12 @@ To accomplish this, I first inspected the data using the [pandas](https://pandas
 **Key Findings**
 
 Overall, we can see that people with more kids tends to have more debt. Statistically speaking, people with more than 5 kids and up to 20 kids are ~37% more likely to be in debt than people with no kid. This is a reasonable figure when you consider the fact that having more kid means you end up with more responsibility. 
-
+<div> 
+    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children.JPG" /> 
+    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children_familystatus.JPG" /> 
+    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_familystatus_education.JPG" /> 
+    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_purpose.JPG" /> 
+</div> 
 <style> 
     img { 
         width:20%; 
@@ -116,12 +121,7 @@ Overall, we can see that people with more kids tends to have more debt. Statisti
     } 
 </style> 
  
-<div> 
-    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children.JPG" /> 
-    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children_familystatus.JPG" /> 
-    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_familystatus_education.JPG" /> 
-    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_purpose.JPG" /> 
-</div> 
+
 
 
 <!--
