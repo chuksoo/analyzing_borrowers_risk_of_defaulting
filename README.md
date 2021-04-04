@@ -1,4 +1,5 @@
 # Analyzing borrowers’ risk of defaulting
+## Credit Rating Analytics
 
 Chukwuemeka Okoli <br>
 Practicum by Yandex Project 1 <br>
@@ -76,7 +77,7 @@ The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrower
 - 2.3 Processing duplicates <br>
 - 2.4 Categorizing Data <br>
 3. Answer the business question
-- Is there a connection between having kids and repaying a loan on time?
+- Is there a connection between having kids and repaying a loan on time? 
 - Is there a connection between marital status and repaying a loan on time?
 - Is there a connection between income level and repaying a loan on time?
 - How do different loan purposes affect on-time loan repayment?
@@ -91,6 +92,7 @@ The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrower
 <div id="accomplishments">
     <h2>Accomplishments</h2> 
 </div>
+
 - Applied strategies for dealing with missing values. <br>
 - Converted data from one type to another. <br>
 - Identified duplicate data and processed it in several different ways. <br>
