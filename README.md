@@ -96,6 +96,23 @@ The customers' credit worthiness [data](https://github.com/chuksoo/credit_rating
     <h2>Executive Summary</h2> 
 </div>
 
+**Introduction**
+
+In every business, having an idea about your customers' credit worthiness is an important metric in accessing customers' value to a business. This will later form a basis for measuring essential business metrics such as sales revenue, customer acquisition costs, estimated customer lifetime value, and customer churn. In this project, the bank’s loan division is trying to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The goal is to apply data preprocessing and analytics in order to determine customers’ credit worthiness. The insight obtained from this project will enable the bank to determine the estimated customer lifetime value, and will be useful when building a **credit score** for a potential customer.
+
+**Methods**
+To accomplish this, I first inspected the data using the [pandas](https://pandas.pydata.org/) library to obtain general information about the data. I processed the missing values, changed data type, and processed duplicates. Next, I proceeded to categorized data and prepare the data for further analysis. To carry out *lemmatization* on the `purpose` column, I used the `WordNetLemmatizer` and `SnowballStemmer` to extract frequency of words in `purpose` column. I then proceeded to encode the categorical variables. In analyzing the data, I prepared various pivot tables and plotted various visualiztion using the [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) libraries. Analysis using pivot table was important in annswering some of the business needs. 
+
+**Key Findings
+Overall, we can see that people with more kids tends to have more debt. Statistically speaking, people with more than 5 kids and up to 20 kids are ~37% more likely to be in debt than people with no kid. This is a reasonable figure when you consider the fact that having more kid means you end up with more responsibility. 
+
+<img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children.JPG" style="width:500px;height:600px;">
+<img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children_familystatus.JPG" width="800px" height="auto">
+<img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_familystatus_education.JPG" style="width:500px;height:600px;">
+<img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_purpose.JPG" style="width:500px;height:600px;">
+
+**Conclusion**
+
 
 
 <div id="accomplishments">
