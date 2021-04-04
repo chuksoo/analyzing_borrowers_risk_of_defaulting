@@ -2,7 +2,7 @@
 
 Chukwuemeka Okoli <br>
 Practicum by Yandex Project 1 <br>
-April 2, 2021 <br>
+April 2, 2021 
 
 **Project description** <br>
 Your project is to prepare a report for a bank’s loan division. You’ll need to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The bank already has some data on customers’ credit worthiness.
@@ -55,8 +55,8 @@ The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrower
 <div id="technology_used">
     <h2>Technology Used</h2> 
 </div>
-- Python
-- Jupyter Notebook 
+- Python <br>
+- Jupyter Notebook <br>
 - Pandas
 - Numpy
 - Matplotlib
@@ -70,10 +70,10 @@ The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrower
 </div>
 1. Open the data file and have a look at the general information
 2. Data preprocessing
-   * 2.1 Processing missing values
-   * 2.2 Data type replacement
-   * 2.3 Processing duplicates
-   * 2.4 Categorizing Data
+   * 2.1 Processing missing values <br>
+   * 2.2 Data type replacement <br>
+   * 2.3 Processing duplicates <br>
+   * 2.4 Categorizing Data <br>
 3. Answer the business question
    - Is there a connection between having kids and repaying a loan on time?
    - Is there a connection between marital status and repaying a loan on time?
