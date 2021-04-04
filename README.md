@@ -57,34 +57,39 @@ The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrower
     <h2>Technology Used</h2> 
 </div>
 
-- Python <br>
-- Jupyter Notebook <br>
-- Pandas <br>
-- Numpy <br>
-- Matplotlib <br>
-- Seaborn <br>
-- NLTK <br>
-- WordNetLemmatizer <br>
-- SnowballStemmer <br>
+<ul>
+    <li>Python</li>
+    <li>Jupyter Notebook</li>
+    <li>Pandas</li>
+    <li>Numpy </li>
+    <li>Matplotlib</li>
+    <li>Seaborn</li>
+    <li>NLTK</li>
+    <li>WordNetLemmatizer</li>
+    <li>SnowballStemmer</li>
+</ul>
 
 <div id="structure_notebook">
     <h2>Structure of Notebook</h2> 
 </div>
-1. Open the data file and have a look at the general information
-2. Data preprocessing
-
-- 2.1 Processing missing values <br>
-- 2.2 Data type replacement <br>
-- 2.3 Processing duplicates <br>
-- 2.4 Categorizing Data <br>
-3. Answer the business question
-
-- Is there a connection between having kids and repaying a loan on time? 
-- Is there a connection between marital status and repaying a loan on time?
-- Is there a connection between income level and repaying a loan on time?
-- How do different loan purposes affect on-time loan repayment?
-
-4. Conclusion
+<ol>
+    <li>Open the data file and have a look at the general information</li>
+    <li>Data preprocessing</li>
+        <ul>
+            <li>Processing missing values</li>
+            <li>Data type replacement</li>
+            <li>Processing duplicates</li>
+            <li>Categorizing Data</li>
+        </ul>
+    <li>Answer the business question</li>
+        <ul>
+            <li>Is there a connection between having kids and repaying a loan on time?</li>
+            <li>Is there a connection between marital status and repaying a loan on time?</li>
+            <li>Is there a connection between income level and repaying a loan on time?</li>
+            <li>How do different loan purposes affect on-time loan repayment?</li>
+        </ul>
+    <li>Conclusion</li>
+</ol>
 
 <div id="executive_summary">
     <h2>Executive Summary</h2> 
@@ -95,14 +100,15 @@ The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrower
 <div id="accomplishments">
     <h2>Accomplishments</h2> 
 </div>
-
-- Applied strategies for dealing with missing values. <br>
-- Converted data from one type to another. <br>
-- Identified duplicate data and processed it in several different ways. <br>
-- Categorized data. <br>
-- Final data export into pivot tables. <br>
-- Querying and using Pivot table for data manipulation and interpretation. <br>
-- Creating visualization using insights from pivot table. <br>
+<ul>
+    <li>Applied strategies for dealing with missing values.</li>
+    <li>Converted data from one type to another.</li>
+    <li>Identified duplicate data and processed it in several different ways.</li>
+    <li>Categorized data.</li>
+    <li>Final data export into pivot tables.</li>
+    <li>Querying and using Pivot table for data manipulation and interpretation.</li>
+    <li>Creating visualization using insights from pivot table.</li>
+</ul>
 
 This project was able to answer these questions:
 - Is there a connection between having kids and repaying a loan on time?
