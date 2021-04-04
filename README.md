@@ -109,9 +109,4 @@ The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrower
     <li>Querying and using Pivot table for data manipulation and interpretation.</li>
     <li>Creating visualization using insights from pivot table.</li>
 </ul>
-
-This project was able to answer these questions:
-- Is there a connection between having kids and repaying a loan on time?
-- Is there a connection between marital status and repaying a loan on time?
-- Is there a connection between income level and repaying a loan on time?
-- How do different loan purposes affect on-time loan repayment?
+ This project was able to answer the business questions. Using insights from this project, the client can classify customer's according to customers’ credit worthiness. 
