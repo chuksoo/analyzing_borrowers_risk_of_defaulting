@@ -13,7 +13,7 @@ Your report will be considered when building a **credit score** for a potential 
 
 ## Table of contents
 
-<div class="alert alert-block alert-info" style="margin-top: 20px">
+<!-- <div class="alert alert-block alert-info" style="margin-top: 20px"> -->
     <ol>
         <li><a href="#open_the_data">Open the data file and have a look at the general information</a></li>
         <li><a href="#data_preprocessing">Data preprocessing</a></li>
@@ -21,7 +21,7 @@ Your report will be considered when building a **credit score** for a potential 
         <li><a href="#general_conclusion">General conclusion</a></li>
         <li><a href="#project_readiness_checklist">Project Readiness Checklist</a></li>
     </ol>
-</div>
+<!-- </div> -->
 <br>
 <hr>
 
