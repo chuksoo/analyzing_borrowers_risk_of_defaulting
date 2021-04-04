@@ -119,20 +119,8 @@ Overall, we can see that people with more kids tends to have more debt. Statisti
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children.JPG)  |  ![](https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children_familystatus.JPG)
+![](https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_familystatus_education.JPG)  |  ![](https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_purpose.JPG)
 
-<!--
-<body>
-<div> 
-	<ul>
-    	<li><img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children.JPG" /></li>
-        <li><img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children_familystatus.JPG" /></li>
-        <li><img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_familystatus_education.JPG" /></li>
-        <li><img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_purpose.JPG" /></li>
-    </ul>
-</div>
-</body>
-</html>
--->
 
 **Conclusion**
 
