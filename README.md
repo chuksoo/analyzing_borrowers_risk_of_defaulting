@@ -129,7 +129,7 @@ Overall, we can see that people with more kids tends to have more debt. Statisti
         margin: 0;
     }
     img {
-    	width: 50%;
+    	width: 25%;
     }
 </style>
 </head>
