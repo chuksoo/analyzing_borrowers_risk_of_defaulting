@@ -110,19 +110,19 @@ Overall, we can see that people with more kids tends to have more debt. Statisti
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children.JPG" style="width:128px;height:128px;">
+    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children.JPG" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children_familystatus.JPG" width="auto" height="auto">
+    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children_familystatus.JPG" style="width:100%">
   </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_familystatus_education.JPG" style="width:500px;height:600px;">
+    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_familystatus_education.JPG" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_purpose.JPG" style="width:500px;height:600px;">
+    <img src="https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_purpose.JPG" style="width:100%">
   </div>
 </div>
 
