@@ -15,7 +15,7 @@ Your report will be considered when building a **credit score** for a potential 
 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <ol>
-        <li><a href="#open_the_data">Open the data file and have a look at the general information</a></li>
+        <li><a href="#objectives">Objectives</a></li>
         <li><a href="#data_preprocessing">Data preprocessing</a></li>
         <li><a href="#answer_questions">Answer these questions</a></li>
         <li><a href="#general_conclusion">General conclusion</a></li>
@@ -25,8 +25,9 @@ Your report will be considered when building a **credit score** for a potential 
 <br>
 <!-- <hr>-->
 
-
-**Objectives** <br>
+<div id="objectives">
+    <h2>Objectives</h2> 
+</div>
 The objective of this project is to:
 - Prepare a report for a bank's loan division by analyze a borrower's risk of defaulting.
 - Apply Data Preprocessing to a real-life analytical case study.
