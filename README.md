@@ -11,9 +11,11 @@ Your project is to prepare a report for a bank’s loan division. You’ll need 
 Your report will be considered when building a **credit score** for a potential customer. A **credit score** is used to evaluate the ability of a potential borrower to repay their loan.
 
 **Objectives**
+
 The objective of this project is to:
 - Prepare a report for a bank's loan division by analyze a borrower's risk of defaulting.
 - Apply Data Preprocessing to a real-life analytical case study.
 
 **Data Source**
+
 The [customers' credit worthiness](https://github.com/chuksoo/analyzing_borrowers_risk_of_defaulting/blob/main/credit_scoring_eng.csv) data
