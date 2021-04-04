@@ -12,7 +12,6 @@ Your report will be considered when building a **credit score** for a potential 
 **Guiding Question** <br>
 Why do borrowers' default on making on time loan repayment? 
 
-
 ## Table of contents
 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
@@ -26,7 +25,6 @@ Why do borrowers' default on making on time loan repayment?
     </ol>
 </div> 
 <br>
-
 
 <div id="objectives">
     <h2>Objectives</h2> 
