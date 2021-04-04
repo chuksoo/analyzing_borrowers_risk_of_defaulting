@@ -106,17 +106,28 @@ To accomplish this, I first inspected the data using the [pandas](https://pandas
 
 **Key Findings**
 
-Overall, we can see that people with more kids tends to have more debt. Statistically speaking, people with more than 5 kids and up to 20 kids are ~37% more likely to be in debt than people with no kid. This is a reasonable figure when you consider the fact that having more kid means you end up with more responsibility. 
+I created a visualization of my findings using the *Seaborn* library.
 
-                          |                          
+|                         |                         |
 |-------------------------|-------------------------|
 ![](https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children.JPG)  |  ![](https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_children_familystatus.JPG)
 ![](https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_familystatus_education.JPG)  |  ![](https://github.com/chuksoo/credit_rating_analytics/blob/main/Image/debt_vs_purpose.JPG)
 
-
+The following are the key findings from this analysis <br>
+- People with more than 5 kids and up to 20 kids are ~37% more likely to be in debt than people with no kid thus, there is a relationship between having kids and repaying a loan on time. This means that people with kids are likely to default on loan repayment.
+ - Unmarried people with up to 4 kids and divorced people with up to 20 kids are ~75% more likely to be in debt than any other family status, and about 80% more likely to be in debt than people with 3 or less number of children.
+ - Unmarried people are more than 2% likely to be in debt than married people. Widow/widower are least likely to be in debt than any of the other groups. This means unmarried people are more likely to default on loan repayment.
+ - There is no correlation between income level and defaulting on loan payment.
+ - People requesting a loan for car purchase and education purposes will most likely default on loan repayment. People requesting loan for house purchase make on time payment than any other category.
+ 
 **Conclusion**
+At the end of this project, we were able to arrive at the following conclusions about the bank's customer: <br>
 
+**Deployment and Application**
+I plan on future deployment using Amazon Web Services. the goal is to extend the application of the project to multiple customers via web services.
 
+**Future Development**
+For future development, I will be working at better visualization and statistical analysis to optimize clients' customer acquisition costs determination. I would also be working on predicting customer churn using Machine Learning for the client. Future Machine Learning model will be put to production and deployed via web app.
 
 <div id="accomplishments">
     <h2>Accomplishments</h2> 
