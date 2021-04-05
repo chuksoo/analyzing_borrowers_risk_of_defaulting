@@ -98,7 +98,7 @@ The customers' credit worthiness [data](https://github.com/chuksoo/credit_rating
 
 **Introduction**
 
-In every business, having an idea about your customers' credit worthiness is an important metric in accessing customers' value to a business. This will later form a basis for measuring essential business metrics such as sales revenue, customer acquisition costs, estimated customer lifetime value, and customer churn. In this project, the bank’s loan division is trying to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The goal is to apply data preprocessing and analytics in order to determine customers’ credit worthiness. The insight obtained from this project will enable the bank to determine the estimated customer lifetime value, and will be useful when building a **credit score** for a potential customer.
+In every business, having an idea about your customers' credit worthiness is an important metric in accessing customers' value to a business. This will later form a basis for measuring essential business metrics such as sales revenue, customer acquisition costs, estimated customer lifetime value, and customer churn. In this [project](https://github.com/chuksoo/credit_rating_analytics/blob/main/credit_rating_analytics.ipynb), the bank’s loan division is trying to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The goal is to apply data preprocessing and analytics in order to determine customers’ credit worthiness. The insight obtained from this project will enable the bank to determine the estimated customer lifetime value, and will be useful when building a **credit score** for a potential customer.
 
 **Methods**
 
@@ -122,7 +122,7 @@ The following are the key findings from this analysis: <br>
  
 **Deployment and Application**
 
-I plan on future deployment using Amazon Web Services. the goal is to extend the application of the project to multiple customers via web services.
+I plan on future deployment using Amazon Web Services. The goal is to extend the application of the project to multiple customers via web services.
 
 **Future Development**
 
