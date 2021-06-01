@@ -102,7 +102,7 @@ In every business, having an idea about your customers' credit worthiness is an 
 
 **Methods**
 
-To accomplish this, I first inspected the data using the [pandas](https://pandas.pydata.org/) library to obtain general information about the data. I processed the missing values, changed data type, and processed duplicates. Next, I proceeded to categorized data and prepare the data for further analysis. To carry out *lemmatization* on the `purpose` column, I used the `WordNetLemmatizer` and `SnowballStemmer` to extract frequency of words in `purpose` column. I then proceeded to encode the categorical variables. In analyzing the data, I prepared various pivot tables and plotted various visualiztion using the [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) libraries. Analysis using pivot table was important in annswering some of the business needs. 
+To accomplish this, I first inspected the data using the [pandas](https://pandas.pydata.org/) library to obtain general information about the data. I processed the missing values, changed data type, and processed duplicates. Next, I proceeded to categorized data and prepare the data for further analysis. To carry out *lemmatization* on the `purpose` column, I used the `WordNetLemmatizer` and `SnowballStemmer` to extract frequency of words in `purpose` column. I then proceeded to encode the categorical variables. In analyzing the data, I prepared various pivot tables and plotted various visualiztion using the [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) libraries. Analysis using pivot table was important in answering some of the business needs. 
 
 **Key Findings**
 
